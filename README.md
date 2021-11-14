@@ -1,4 +1,4 @@
-# SentimentAnalysis
+# Tweet Sentiment Analysis
 ML program to predict sentiment of a tweet using Naive Bayes Algorithm and "Bag of Words" method
 
 ![](http://positivewordsresearch.com/wp-content/uploads/2015/06/Sentiment-Analysis.jpg)
